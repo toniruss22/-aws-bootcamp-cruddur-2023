@@ -7,7 +7,8 @@ Create Billing alarm - completed
 Create Budget - completed
 Recreate Logical architecture diagrams in LucidCharts
 Recreate conceptual Diagram in LucidCharts or on a Napkin
-Budget Created
+
+Budgets
 ![image](https://user-images.githubusercontent.com/102694128/219826012-bcedd8b6-a496-4267-ba05-5637d451467f.png)
 
 Billing Alarm
