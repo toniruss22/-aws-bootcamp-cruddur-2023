@@ -20,3 +20,6 @@ Logical Architecture Diagram
 
 Create IAM User
 ![image](https://user-images.githubusercontent.com/102694128/219826573-7c55fd43-f27e-4d8a-ac70-f6017ef5fa63.png)
+
+Create Organization
+![image](https://user-images.githubusercontent.com/102694128/219826689-80b9b737-a089-47c9-8b73-ffdecc19d93b.png)
