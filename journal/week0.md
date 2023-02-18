@@ -1,6 +1,6 @@
 # Week 0 — Billing and Architecture
 
-Todo Checklist
+Cloud Project BC - To Do Checklist
 	
 	Watched Week 0 - Live Streamed Video	- [COMPLETED]
 	Watched Chirag's Week 0 - Spend Considerations	- [COMPLETED]
