@@ -32,4 +32,10 @@ Create IAM User
 Create Root Account
 ![image](https://user-images.githubusercontent.com/102694128/219826689-80b9b737-a089-47c9-8b73-ffdecc19d93b.png)
 
+Installed AWS CLI in Gitpod
+![image](https://user-images.githubusercontent.com/102694128/219835699-2ce768fc-ba2a-4629-95b0-b1118397cceb.png)
+
+![image](https://user-images.githubusercontent.com/102694128/219835888-f875caff-0480-4d5e-9794-051441e53d97.png)
+
+
 Home Work Summary:I have created the AWS Console account (budget, billing, users. root user, billing alarm), Lucid account, Gihub and Gitpod familiarity. In addition I have added extentions for the github MFA's and created a phone backup security for the AWS account. I played around in AWS CLI and installed AWS in Gitpod, and Cloudtrail, to get a clearer understanding of the differences as it gets a bit tricky.
