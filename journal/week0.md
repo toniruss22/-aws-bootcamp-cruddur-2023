@@ -48,4 +48,4 @@ MFA added to Root User
 
 
 
-Home Work Summary:I have created the AWS Console account (budget, billing, users. root user, billing alarm), Lucid account, Gihub and Gitpod familiarity. In addition I have added extentions for the github MFA's and created a phone backup security for the AWS account. I played around in AWS CLI and installed AWS in Gitpod, and created a Cloudtrail and deleted it, as advised in the video to avoid fees, at the moment. I also created in IAM, a role, permission (attached to a user and policy (admin access for Cloud_Project1). 
+Home Work Summary:I have created the AWS Console account (budget, billing, users. root user, billing alarm), Lucid account, Gihub and Gitpod familiarity. In addition I have added extensions for the github MFA's and created a phone backup security for the AWS account. I played around in AWS CLI and installed AWS in Gitpod, and created a Cloudtrail and deleted it, as advised in the video to avoid fees, at the moment. I also created in IAM, a role, permission (attached to a user and policy (admin access for Cloud_Project1). 
