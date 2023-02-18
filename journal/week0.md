@@ -18,6 +18,9 @@ Billing Alarm
 Logical Architecture Diagram
 ![image](https://user-images.githubusercontent.com/102694128/219826304-d6941fc2-1c42-4209-b8e5-68052099e7b0.png)
 
+Napkin Architecture Diagram
+![image](https://user-images.githubusercontent.com/102694128/219827421-2a202988-565b-441b-8a6f-069a429f76dc.png)
+
 Create IAM User
 ![image](https://user-images.githubusercontent.com/102694128/219826573-7c55fd43-f27e-4d8a-ac70-f6017ef5fa63.png)
 
