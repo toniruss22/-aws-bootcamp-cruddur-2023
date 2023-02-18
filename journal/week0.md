@@ -2,7 +2,9 @@
 
 Todo Checklist
 	Watched Week 0 - Live Streamed Video	- [COMPLETED]
+	
 	Watched Chirag's Week 0 - Spend Considerations	- [COMPLETED]
+	
 	Watched Ashish's Week 0 - Security Considerations - [COMPLETED]
 	Recreate Conceptual Diagram on a Napkin	- [COMPLETED]
 	Recreate Logical Architectual Diagram in Lucid Charts	- [COMPLETED]
