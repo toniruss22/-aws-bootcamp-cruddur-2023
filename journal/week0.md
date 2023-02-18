@@ -37,5 +37,9 @@ Installed AWS CLI in Gitpod
 
 ![image](https://user-images.githubusercontent.com/102694128/219835888-f875caff-0480-4d5e-9794-051441e53d97.png)
 
+Installation in CloudShell
+![image](https://user-images.githubusercontent.com/102694128/219836254-a6fd494e-dea7-4f71-a2cb-0ff2cea63052.png)
+
+
 
 Home Work Summary:I have created the AWS Console account (budget, billing, users. root user, billing alarm), Lucid account, Gihub and Gitpod familiarity. In addition I have added extentions for the github MFA's and created a phone backup security for the AWS account. I played around in AWS CLI and installed AWS in Gitpod, and Cloudtrail, to get a clearer understanding of the differences as it gets a bit tricky.
