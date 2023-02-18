@@ -30,3 +30,5 @@ Create IAM User
 
 Create Root Account
 ![image](https://user-images.githubusercontent.com/102694128/219826689-80b9b737-a089-47c9-8b73-ffdecc19d93b.png)
+
+Home Work Summary:I have created the AWS Console account (budget, billing, users. root user, billing alarm), Lucid account, Gihub and Gitpod familiarity. In addition I have added extentions for the github MFA's and created a phone backup security for the AWS account
