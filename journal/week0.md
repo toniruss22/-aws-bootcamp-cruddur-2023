@@ -1,13 +1,17 @@
 # Week 0 — Billing and Architecture
 
-Watch weekly videos
-Create admin user
-Generate AWS credentials
-Install AWS CLI
-Create Billing alarm - completed
-Create Budget - completed
-Recreate Logical architecture diagrams in LucidCharts
-Recreate conceptual Diagram in LucidCharts or on a Napkin
+Todo Checklist
+	Watched Week 0 - Live Streamed Video	- [COMPLETED]
+	Watched Chirag's Week 0 - Spend Considerations	- [COMPLETED]
+	Watched Ashish's Week 0 - Security Considerations - [COMPLETED]
+	Recreate Conceptual Diagram on a Napkin	- [COMPLETED]
+	Recreate Logical Architectual Diagram in Lucid Charts	- [COMPLETED]
+	Create an Admin User	- [COMPLETED]
+	Use CloudShell	- [COMPLETED]
+	Generate AWS Credentials - [COMPLETED] 
+	Installed AWS CLI - [COMPLETED]
+	Create a Billing Alarm	- [COMPLETED] 
+	Create a Budget - [COMPLETED]
 
 Budgets
 ![image](https://user-images.githubusercontent.com/102694128/219826012-bcedd8b6-a496-4267-ba05-5637d451467f.png)
