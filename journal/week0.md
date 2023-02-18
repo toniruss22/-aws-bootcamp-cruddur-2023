@@ -40,6 +40,12 @@ Installed AWS CLI in Gitpod
 Installation in CloudShell
 ![image](https://user-images.githubusercontent.com/102694128/219836254-a6fd494e-dea7-4f71-a2cb-0ff2cea63052.png)
 
+Created a Role and User Permission
+![image](https://user-images.githubusercontent.com/102694128/219872545-c5509a6b-6256-4926-a050-771eb4640d9e.png)
+
+MFA added to Root User
+![image](https://user-images.githubusercontent.com/102694128/219872582-c320bd88-05f4-49b6-ae50-428622c8ae28.png)
+
 
 
 Home Work Summary:I have created the AWS Console account (budget, billing, users. root user, billing alarm), Lucid account, Gihub and Gitpod familiarity. In addition I have added extentions for the github MFA's and created a phone backup security for the AWS account. I played around in AWS CLI and installed AWS in Gitpod, and created a Cloudtrail and deleted it, as advised in the video to avoid fees, at the moment. I also created in IAM, a role, permission (attached to a user and policy (admin access for Cloud_Project1). 
